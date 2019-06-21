@@ -4,7 +4,7 @@
 
 ```bash
 ## clone this repo to a local directory
-git clone https://github.com/<your-username>/cypress-example-todomvc.git
+git clone git@github.com:smoczynskiw/netguru-cypress-workshops.git
 
 ## cd into the cloned repo
 cd cypress-example-todomvc
